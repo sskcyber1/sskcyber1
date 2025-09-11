@@ -17,13 +17,13 @@ A builder and a thinker, I love to transform ideas into real-world applications.
 ## 🚀 Featured Projects
 
 - [microcontrollerFaaS-application](https://github.com/nehavadnere/microcontrollerFaaS-application)  
-  Microcontroller-as-a-Service: Edge computing meets IoT.
+  Edge computing.
 
 - [CFU_Final](https://github.com/sskcyber1/CFU_Final)  
-  (Add a short line about this project!)
+  
 
 - [PPLX4YT](https://github.com/bsudharshan2001/PPLX4YT)  
-  (Add a short line about this project!)
+  
 
 *Want to know more? Check out my repositories above!*
 
