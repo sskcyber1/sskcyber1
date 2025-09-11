@@ -1,7 +1,5 @@
 # Hi there, I'm Sreehari Krishna! 👋
 
-![Profile Banner](https://user-images.githubusercontent.com/your-banner-image.png) <!-- Optional, add your own banner! -->
-
 ## 👨‍💻 About Me
 
 I'm a Master's student passionate about building impactful software solutions.  
