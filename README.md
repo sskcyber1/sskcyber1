@@ -6,7 +6,7 @@ I'm a Master's student passionate about building impactful software solutions.
 A builder and a thinker, I love to transform ideas into real-world applications.
 
 - 🔭 **Currently working with:**  
-  - Embedded systems and microcontroller applications  
+  - ML/DL in microcontrollers & embedded devices  
   - Full-stack web development
 
 - 🎯 **Skills:**  
