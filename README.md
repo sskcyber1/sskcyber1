@@ -31,12 +31,12 @@ A builder and a thinker, I love to transform ideas into real-world applications.
 
 - [LinkedIn](https://www.linkedin.com/in/sreehari-krishna/)
 
-## 🏸 Outside Tech
+## Outside Tech
 
 When I'm not coding, you'll find me:
-- Playing badminton or football ⚽️
+- Playing badminton 🏸  or football ⚽️
 - Singing 🎤
-- Exploring new ideas
+- Watching Movies 
 
 ---
 
