@@ -52,6 +52,7 @@
 
 ### 🚀 Selected Projects
 
+- **Learning-Based-Cache-Admission**
 - **Serverless Image Processing (AWS)**
 - **ShuffleNetV2 Acceleration on RISC-V**
 - **Edge Audio Classification with FaaS**
