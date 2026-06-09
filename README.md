@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sreehari Krishna
 
-🎯 *Designing efficient, data-driven systems across the edge, cloud, and web.*
+🎯 *Designing & building efficient, data-driven systems across the edge, cloud, and web.*
 
 ---
 
