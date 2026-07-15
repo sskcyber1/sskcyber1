@@ -65,7 +65,7 @@
 > **”EdgeFaaS: A Function-based Framework for Edge Computing”** 
 > *Neha Vadenere, Yu-Ting Wang, Yitao Chen, Sreehari Sadesh, Ming Zhao* 
 > *2026 IEEE International Conference on Edge Computing and Communications (EDGE), Sydney, Australia, 2026*
-> *[Paper Accepted]*
+> [Accepted]
 
 
 > **“Inference at the Edge for Complex Deep Learning Applications with Multiple Models and Accelerators”**  
