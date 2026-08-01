@@ -62,15 +62,16 @@
 
 ### 📚 Publication
 
-> **”EdgeFaaS: A Function-based Framework for Edge Computing”** 
-> *Neha Vadenere, Yu-Ting Wang, Yitao Chen, Sreehari Sadesh, Ming Zhao* 
+> **”EdgeFaaS: A Function-based Framework for Edge Computing”**
+> *Neha Vadenere, Yu-Ting Wang, Yitao Chen, Sreehari Sadesh, Ming Zhao*
 > *2026 IEEE International Conference on Edge Computing and Communications (EDGE), Sydney, Australia, 2026.*
 > [📄 Read on Arxiv](https://arxiv.org/abs/2607.14489)
 
+<!-- -->
 
-> **“Inference at the Edge for Complex Deep Learning Applications with Multiple Models and Accelerators”**  
-> *Ashwanth K, Dharun Narayanan L K, Dev Divyendh D, Sreehari Krishna S, Vijaya Kumar Sundar, Priyanka Kumar*  
-> *2023 14th International Conference on Computing Communication and Networking Technologies (ICCCNT), IEEE.*  
+> **“Inference at the Edge for Complex Deep Learning Applications with Multiple Models and Accelerators”**
+> *Ashwanth K, Dharun Narayanan L K, Dev Divyendh D, Sreehari Krishna S, Vijaya Kumar Sundar, Priyanka Kumar*
+> *2023 14th International Conference on Computing Communication and Networking Technologies (ICCCNT), IEEE.*
 > [📄 Read on IEEE Xplore](https://ieeexplore.ieee.org/document/10306363)
 
 ---
